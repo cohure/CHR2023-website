@@ -3,16 +3,14 @@ title: "Fourth Conference on Computational Humanities Research"
 date: 2019-12-15T11:12:14+01:00
 ---
 
-<!-- <h3 class="center"><b><span style="text-align:center;">December 12-14 2022, University of -->
-<!-- Antwerp, Belgium</br></br><a href="https://forms.gle/2o5G9eSwqRjT3BFT6"><u>Registration</u></a> is now open</span></b></h3></br> -->
+<h3 class="center"><b><span style="text-align:center;">December 6-8 2023, L'école des ingénieurs en informatique, Paris</br></br><a href="https://2023.computational-humanities-research.org/cfp/"><u>Call for papers</u></a> is now live</span></b></h3></br>
 
 The Computational Humanities Research (CHR) community is an international and
 interdisciplinary community that supports researchers with an interest in computational
 approaches to the humanities. 
 
 The 2023 edition of the Computational Humanities Research conference will take
-place around December 2023. More details about the call for papers and venue
-will follow soon. 
+place on **December 6-8, 2023** in Paris at the [École pour l’informatique et les techniques avancées](https://www.epita.fr/en/homepage/). Expect more details about CHR2023 soon!
 
 <!-- ### Practicalities -->
 <!-- Visit our forum for the latest updates and more information about the -->
