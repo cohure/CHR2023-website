@@ -83,7 +83,7 @@ a double-blind peer review process by at least three reviewers with final
 acceptance decisions made by the Programme Chairs.
 
 Papers and posters should be submitted as PDF documents via the Easychair
-conference management system: https://easychair.org/conferences/?conf=chr2022.
+conference management system: https://easychair.org/conferences/?conf=chr2023.
 
 At least one author of each accepted submission must register to the conference and
 present the paper or poster.
