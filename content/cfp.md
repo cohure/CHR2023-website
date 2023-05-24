@@ -107,7 +107,7 @@ end, please:
 ### Anonymity period
 
 The anonymity period runs until the notification of acceptance (**September,
-2023**). Preprints can be published after this date.
+2023**). Preprints can be published after this date. No deanonymized preprint should be published prior to submission as well, as CHR has no anonimity period cutoff. 
 
 ### Questions?
 
