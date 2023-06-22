@@ -46,9 +46,9 @@ The 2023 edition of the Computational Humanities Research conference will be hos
 
 <input class="filled-in" type="checkbox"><span>Submission deadline: July 24, 2023</span>
 
-<input class="filled-in" type="checkbox"><span>Notification to authors: September, 2023</span>
+<input class="filled-in" type="checkbox"><span>Notification to authors: September 15, 2023</span>
 
-<input class="filled-in" type="checkbox"><span>Final papers ready: October, 2023</span>
+<input class="filled-in" type="checkbox"><span>Final papers ready: October 13, 2023</span>
 
 <input class="filled-in" type="checkbox"><span>Conference: December 6 - December 8, 2023 </span>
 
@@ -106,8 +106,7 @@ end, please:
 
 ### Anonymity period
 
-The anonymity period runs until the notification of acceptance (**September,
-2023**). Preprints can be published after this date. No deanonymized preprint should be published prior to submission as well, as CHR has no anonimity period cutoff. 
+The anonymity period runs until the notification of acceptance (**September, 2023**). Preprints can be published after this date. No deanonymized preprint should be published prior to submission as well, as CHR has no anonimity period cutoff. 
 
 ### Questions?
 
