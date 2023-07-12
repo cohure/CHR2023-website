@@ -3,7 +3,7 @@ title: "Call for Papers"
 date: 2019-12-15T11:11:58+01:00
 ---
 
-<h3 class="center"><b><span style="text-align:center;">Submission deadline: July 24, 2023</b></h3></br>
+<h3 class="center"><b><span style="text-align:center;">Submission deadline: <s>July 24</s> August 1, 2023</h3></br>
 
 In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches. Despite the undeniable growth of this research area, many scholars still struggle to find suitable research-oriented venues to present and publish computational work that does not lose sight of traditional modes of inquiry in the arts and humanities. This is the scholarly niche that the CHR conference aims to fill. More precisely, the conference aims at
 
@@ -44,7 +44,11 @@ The 2023 edition of the Computational Humanities Research conference will be hos
 
 ### Important dates
 
-<input class="filled-in" type="checkbox"><span>Submission deadline: July 24, 2023</span>
+<input class="filled-in" type="checkbox"><span><s>Submission deadline: July 24,
+2023</s></span>
+
+<input class="filled-in" type="checkbox"><span>Submission deadline: August 1,
+2023</span>
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: September 15, 2023</span>
 
