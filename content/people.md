@@ -28,7 +28,6 @@ Artjoms Šeļa, Institute of Polish Language, Polish Academy of Sciences,
 Barbara McGillivray,	Alan Turing Institute/University of Cambridge, Department of Theoretical and Applied Linguistics  
 Benjamin Nagy, Institute of Polish Language, (Polish Academy of Sciences)  
 Berenike Herrmann, Universität Bielefeld  
-Cerstin	Mahlow, ZHAW Zurich University of Applied Sciences  
 Cesar Gonzalez-Perez, INCIPIT, Spain  
 Christof Schöch, University of Trier  
 Clemens	Neudecker, Berlin State Library  
