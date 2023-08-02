@@ -47,8 +47,8 @@ The 2023 edition of the Computational Humanities Research conference will be hos
 <input class="filled-in" type="checkbox"><span><s>Submission deadline: July 24,
 2023</s></span>
 
-<input class="filled-in" type="checkbox"><span>Submission deadline: August 1,
-2023, Anywhere on Earth</span>
+<input class="filled-in" type="checkbox"><span><s>Submission deadline: August 1,
+2023, Anywhere on Earth</s></span>
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: September 15, 2023</span>
 

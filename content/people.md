@@ -21,6 +21,7 @@ Alie Lassche, Leiden University
 Allen Riddell, Indiana University Bloomington  
 Andreas	Baumann, University of Vienna  
 Andreas	van Cranenburgh, University of Groningen  
+Andreas	Niekler, Universität Leipzig  
 Andrew	Piper, McGill University  
 Annelen	Brunner, Institut für Deutsche Sprache, Mannheim  
 Antoine	Doucet, University of La Rochelle  
@@ -41,6 +42,7 @@ Emanuela Boros, University of La Rochelle
 Enrique	Manjavacas, Leiden University  
 Estelle	Bunout, University of Luxembourg  
 Evelyn Gius, Darmstadt Technical University  
+Florian Cafiero, Institut d'Etudes Politiques de Paris / École nationale des chartes    
 Folgert	Karsdorp, Meertens Institute  
 Fotis Jannidis, Julius-Maximilans-Universität Würzburg  
 Francesco Periti, Università degli Studi di Milano Statale  
