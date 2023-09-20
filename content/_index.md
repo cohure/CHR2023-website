@@ -3,7 +3,7 @@ title: "Fourth Conference on Computational Humanities Research"
 date: 2019-12-15T11:12:14+01:00
 ---
 
-<h3 class="center"><b><span style="text-align:center;">December 6-8 2023, École pour l'informatique et les techniques avancées, Paris</br></br>Submissions closed</span></b></h3></br>
+<h3 class="center"><b><span style="text-align:center;">December 6-8 2023, École pour l'informatique et les techniques avancées, Paris</br></br>Programme selected</span></b></h3></br>
 
 The Computational Humanities Research (CHR) community is an international and
 interdisciplinary community that supports researchers with an interest in computational
