@@ -7,7 +7,7 @@
 - Florian Cafiero, Institut d'Etudes Politiques de Paris / École nationale des chartes
 - Fotis Jannidis, University of Würzburg
 - Folgert Karsdorp, KNAW Meertens Institute
-- Marie Puren, L'école des ingénieurs en informatique
+- Marie Puren, EPITA / Centre Jean Mabillon - École nationale des chartes  
 - Iza Romanowska, Aarhus University
 - Artjoms Šeļa, Institute of Polish Language (Polish Academy of Sciences)
 - Melvin Wevers, University of Amsterdam
@@ -22,6 +22,7 @@ Allen Riddell, Indiana University Bloomington
 Andreas	Baumann, University of Vienna  
 Andreas	van Cranenburgh, University of Groningen  
 Andreas	Niekler, Universität Leipzig  
+Andres Karjus, Tallinn University, CUDAN  
 Andrew	Piper, McGill University  
 Annelen	Brunner, Institut für Deutsche Sprache, Mannheim  
 Antoine	Doucet, University of La Rochelle  
@@ -82,7 +83,6 @@ Niels Chr. Hansen, Aarhus University
 Nils Reiter, Institute of Natural Language Processing, Stuttgart University  
 Nina Tahmasebi, University of Gothenburg  
 Oleg Sobchuk, Max Planck Institute for the Science of Human History  
-Pedro Ortuz, INRIA  
 Petra Hermankova, Aarhus University  
 Rachele	Sprugnoli, Università degli Studi di Parma  
 Ramona Roller, ETH Zurich  
