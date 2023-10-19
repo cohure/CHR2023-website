@@ -3,7 +3,7 @@ title: "Fourth Conference on Computational Humanities Research"
 date: 2019-12-15T11:12:14+01:00
 ---
 
-<h3 class="center"><b><span style="text-align:center;">December 6-8 2023, École pour l'informatique et les techniques avancées, Paris</br></br>Programme selected</span></b></h3></br>
+<h3 class="center"><b><span style="text-align:center;">December 6-8 2023, École pour l'informatique et les techniques avancées, Paris</br></br>Proceedings in progress</span></b></h3></br>
 
 The Computational Humanities Research (CHR) community is an international and
 interdisciplinary community that supports researchers with an interest in computational
@@ -60,7 +60,7 @@ We are very honoured and pleased that Richard McElreath, Olivier Morin, and Robe
       </div>
       <div class="card-reveal">
         <span class="card-title grey-text text-darken-4">Olivier Morin<i class="material-icons right">close</i></span>
-        <p>Olivier Morin is a CNRS researcher at the Institut Jean Nicod (PSLUniversity,Paris). His research focuses on cultural transmission and its cognitive prerequisites. His book, How Traditions Live and Die (2016), seeks to explain the long-term survival of culturally evolved practices. His more recent work focuses on the cultural evolution of graphic communication – the human ability to transmit information by means of images. His publications span anthropology, cognitive science, and behavioral ecology.</p>
+        <p>Olivier Morin is a CNRS researcher at the Institut Jean Nicod (PSL University,Paris). His research focuses on cultural transmission and its cognitive prerequisites. His book, How Traditions Live and Die (2016), seeks to explain the long-term survival of culturally evolved practices. His more recent work focuses on the cultural evolution of graphic communication – the human ability to transmit information by means of images. His publications span anthropology, cognitive science, and behavioral ecology.</p>
       </div>
     </div>
   </div>

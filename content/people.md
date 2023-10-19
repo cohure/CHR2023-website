@@ -34,7 +34,8 @@ Cesar Gonzalez-Perez, INCIPIT, Spain
 Christof Schöch, University of Trier  
 Clemens	Neudecker, Berlin State Library  
 Cynthia	Liem, Delft University of Technology  
-Damien	Nouvel, INaLCO  
+Damien	Nouvel, INaLCO 
+David Bamman, University of California, Berkeley   
 David Mimno, Cornell University  
 Eetu Mäkelä, University of Helsinki  
 Elena Fernández Fernández, University of Zurich, Department of Computational Linguistics  
@@ -57,6 +58,7 @@ Julien Randon-Furling, SAMM, Univ. Paris Panthéon-Sorbonne
 Kaspar Beelen, The Alan Turing Institute  
 Katherine Crowford, Cyprus Institute  
 Katrine	Baunvig, Aarhus University  
+Keli Du, Trier University  
 Kristian Gade Kjelmann,	Aalborg University  
 Kristoffer	Nielbo, Aarhus University  
 Lars Johnsen, National Libary of Norway  
@@ -64,7 +66,8 @@ Laura Mandell, Texas A&M University
 Laure Thompson, Cornell University  
 Lauren Fonteyn, Leiden University Centre for Linguistics  
 Lauren Tilton, Richmond University  
-Laurent	Romary, INRIA & HUB-ISDL  
+Laurent	Romary, INRIA & HUB-ISDL 
+Leonard Konle, Würzburg University 
 Maciej Eder, Institute of Polish Language, Polish Academy of Sciences  
 Manuel Burghardt, Computational Humanities, University of Leipzig  
 Marco Passarotti, Catholic University of the Sacred Heart  
@@ -91,6 +94,7 @@ Ross Kristensen-McLachlan, Centre for Humanities Computing, Aarhus University
 Serge  Heiden, Ihrim / ENS de Lyon  
 Simon Clematide, University of Zurich  
 Simon Hengchen, Helsinki University  
+Simone Rebora, University of Verona  
 Stefan Schweter, Bayerische Staatsbibliothek München, Digital Library/Munich Digitization Center  
 Stephanie Evert, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany  
 Tara Andrews, University of Vienna  
