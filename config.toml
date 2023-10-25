@@ -22,11 +22,11 @@ publishDir = "docs"
     url = "/cfp"
     weight = -2000
 
-  # [[menu.main]]
-  #   identifier = "venue"
-  #   name = "Venue"
-  #   url = "/venue"
-  #   weight = -1750
+  [[menu.main]]
+    identifier = "venue"
+    name = "Venue"
+    url = "/venue"
+    weight = -1750
 
   # [[menu.main]]
   #   identifier = "programme"

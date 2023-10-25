@@ -52,7 +52,7 @@ The 2023 edition of the Computational Humanities Research conference will be hos
 
 <input class="filled-in" type="checkbox"><span><s>Notification to authors: September 19, 2023</s></span>
 
-<input class="filled-in" type="checkbox"><span>Final papers ready: October 16, 2023</span>
+<input class="filled-in" type="checkbox"><span><s>Final papers ready: October 16, 2023</s></span>
 
 <input class="filled-in" type="checkbox"><span>Conference: December 6 - December 8, 2023 </span>
 
