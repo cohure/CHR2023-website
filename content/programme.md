@@ -24,7 +24,7 @@ layouttype: "single"
 - 13:30-15:00: [**Session 4A**](#session-4a-narratives): Narrative   //////  [**Session 4B**](#session-4b-libraries-and-collections): Libraries and Collections
 - 15:00-15:30: *Coffee break*
 - 15:30-17:00: [**Session 5A**](#session-5a-authorship-attribution): Authorship attribution  //////  [**Session 5B**](#session-5b-large-language-models): Large Language Models
-- 17:00-: **Poster walk-around**
+- 17:00-: [**Poster walk-around**](#posters)
 - 20:00: *Conference dinner*
 
 ### Friday, December 8, 2023 (Day 3)
