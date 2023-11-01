@@ -47,6 +47,7 @@ layouttype: "single"
 <div class="">
   <li class="collection-item avatar">
     <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
       <span class="title col s10">From computational diplomatics to computational diplomacy: pre-processing and analyzing historical or contemporary  documents
@@ -62,6 +63,7 @@ layouttype: "single"
 <div class="">
   <li class="collection-item avatar">
     <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
       <span class="title col s10">Computational analysis of texts: an introduction with Python
@@ -74,8 +76,18 @@ layouttype: "single"
  </li>
 </div>
 
-
-
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+       <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Mapping with R for humanities</span>
+      <p>
+        <span class="col s10 author">Giovanni Pietro Vitali</span><br>
+      </p>
+   </div>
+ </li>
 
 
 #### Session 1. Historical change
@@ -93,7 +105,8 @@ layouttype: "single"
       </p>
       <span class="">
         <div class="abstract-wrapper hide-on-small-only col s12">
-          <span class="abstract">Advancements in language technology and applied mathematics offer a plethora of tools that can enrich textual cultural heritage research. Using an information-theoretical approach to author profiling, this paper tries to leverage some of these tools to reconstruct mental states in the Early Modern Spanish author Teresa of \'{Avila}. We shift away from traditional static textual feature analysis and instead approach author profiling as a dynamic problem, requiring a representation of the author’s life history. Teresa of Ávila was an Early Modern Spanish mystic and Carmelite nun whose authorship offers a unique dataset due to her prolific output and well-preserved, digitized writings. We model Teresa's letter corpus as a complex system with multiple states and try to track her mental and socio-cultural dynamics through lexical co-occurrence structures and affective valences in her letters. We find that Teresa's letters reflect a life history of state switching between contemplation and revelation. This relatively new approach offers a more robust and dynamic perspective on author profiling in cultural heritage research.</span>
+          <span class="abstract"> Advancements in language technology and applied mathematics offer a plethora of tools that can enrich textual cultural heritage research. Using an information-theoretical approach to author profiling, this paper tries to leverage some of these tools to reconstruct mental states in the Early Modern Spanish author Teresa of \'{Avila}. We shift away from traditional static textual feature analysis and instead approach author profiling as a dynamic problem, requiring a representation of the author’s life history. Teresa of Ávila was an Early Modern Spanish mystic and Carmelite nun whose authorship offers a unique dataset due to her prolific output and well-preserved, digitized writings. We model Teresa's letter corpus as a complex system with multiple states and try to track her mental and socio-cultural dynamics through lexical co-occurrence structures and affective valences in her letters. We find that Teresa's letters reflect a life history of state switching between contemplation and revelation. This relatively new approach offers a more robust and dynamic perspective on author profiling in cultural heritage research. <br/> long talk
+          </span>
         </div>
       </span>
    </div>
@@ -109,7 +122,7 @@ layouttype: "single"
     <div class="row">
       <span class="title col s10">Modeling temporal uncertainty in historical datasets</span>
       <p>
-        <span class="col s10 author">Vojtech Kase, Adéla Sobotková and Petra Heřmánková.</span><br>
+        <span class="col s10 author">Vojtech Kase, Adéla Sobotková and Petra Heřmánková</span><br>
       </p>
       <span class="">
         <div class="abstract-wrapper hide-on-small-only col s12">
