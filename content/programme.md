@@ -6,42 +6,79 @@ layouttype: "single"
 *Please note that all times are in Central European Time (CET)*
 ### Wednesday, December 6, 2023 (Day 1)
 
-- 09:00-10:30: **Workshops**, registration
-- 10:30-11:00: *Coffee break, registration*
-- 11:00-11:30: *CHR opening words*
-- 11:30-13:00: **Session 1**: Historical change
+- 09:00-10:30: [**Workshops**](#parallel-workshops), registration
+- 10:30-11:15: *Coffee break, registration*
+- 11:15-11:30: *CHR opening words*
+- 11:30-13:00: [**Session 1**](#session-1-historical-change): Historical change
 - 13:00-14:30: *Lunch*
-- 14:30-16:00: **Session 2A**: Language   **Session 2B**: History
+- 14:30-16:00: [**Session 2A**](#session-2a-language): Language  //////  [**Session 2B**](#session-2b-history): History
 - 16:00-16:30: *Coffee break*
 - 16:30-18:00: **Keynote** Richard McElreath (MPI for Evolutionary Anthropology)
 - 18:00: Opening reception 
 
 ### Thursday, December 7, 2023 (Day 2)
-- 09:00-10:30: **Session 3A**: Literature and society   **Session 3B**: Manuscripts & HTR
+- 09:00-10:30: [**Session 3A**](#session-3a-literature-and-society): Literature and society  //////  [**Session 3B**](#session-3b-htr-and-manuscripts): HTR and manuscripts
 - 10:30-11:00: *Coffee break*
 - 11:00-12:20: **Keynote**: Roberta Sinatra (University of Copenhagen)
 - 12:30-13:30: *Lunch*
-- 13:30-15:00: **Session 4A**: Narratives  **Session 4B**: Libraries & Collections
+- 13:30-15:00: [**Session 4A**](#session-4a-narratives): Narrative   //////  [**Session 4B**](#session-4b-libraries-and-collections): Libraries and Collections
 - 15:00-15:30: *Coffee break*
-- 15:30-17:00: **Session 5A**: Authorship attribution   **Session 5B**: Large Language Models
-- 17:00-: **Poster walk-around**: poster pitch session, followed by walk-around
+- 15:30-17:00: [**Session 5A**](#session-5a-authorship-attribution): Authorship attribution  //////  [**Session 5B**](#session-5b-large-language-models): Large Language Models
+- 17:00-: **Poster walk-around**
 - 20:00: *Conference dinner*
 
 ### Friday, December 8, 2023 (Day 3)
 - 09:00-10:30: **Keynote**: Olivier Morin
 - 10:30-11:00: *Coffee break*
-- 11:00-12:30: **Session 6**: Audio/Visual
+- 11:00-12:30: [**Session 6**](#session-6-audiovisual): Audio/Visual
 - 12:30-13:30: *Lunch*
-- 13:30-15:00: **Lightning talks session**
+- 13:30-15:00: [**Lightning talks session**](#lightning-talks)
 - 15:00-15:30: *Coffee break*
-- 15:30-17:00: **Session 7**: Literature
-- 17:00-17:30: *award ceremony, concluding remarks*
+- 15:30-17:00: [**Session 7**](#session-7-literature): Literature
+- 17:00-17:30: *Award ceremony, concluding remarks*
 
 </br>
 
 ### Detailed Programme
 
-#### Session 1    Historical change
+#### Parallel workshops
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+    </a>
+    <div class="row">
+      <span class="title col s10">From computational diplomatics to computational diplomacy: pre-processing and analyzing historical or contemporary  documents
+</span>
+      <p>
+        <span class="col s10 author">Florian Cafiero (PSL) and Jean-Luc Falcone (UNIGE)</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+    </a>
+    <div class="row">
+      <span class="title col s10">Computational analysis of texts: an introduction with Python
+</span>
+      <p>
+        <span class="col s10 author">Marianne Reboul (Ecole Normale Supérieure de Lyon)
+</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+
+
+
+#### Session 1. Historical change
 
 <ul class="collection">
 <div class="">
@@ -145,7 +182,7 @@ layouttype: "single"
 </ul>
 
 
-#### Session 2A    Language
+#### Session 2A. Language
 
 <ul class="collection">
 <div class="">
@@ -230,7 +267,7 @@ layouttype: "single"
 </div>
 </ul>
 
-#### Session 2B   History
+#### Session 2B. History
 
 <ul class="collection">
 <div class="">
@@ -320,7 +357,7 @@ layouttype: "single"
 </ul>
 
 
-#### Session 3A    Literature and society
+#### Session 3A. Literature and society
 
 <ul class="collection">
 <div class="">
@@ -392,6 +429,28 @@ layouttype: "single"
       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
+      <span class="title col s10">Putting Dutchcoref To the Test: Character Detection and Gender Dynamics in Contemporary Dutch Novels</span>
+      <p>
+        <span class="col s10 author">Joris J. Van Zundert, Roel Smeets and Andreas Van Cranenburgh</span><br>
+      </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">Although coreference resolution is a necessary requirement for a wide range of automated narratological analyses, most of the systems performing this task leave much to be desired in terms of either accuracy or their practical application in literary studies. While there are coreference resolution systems that demonstrate good performance on annotated fragments of novels, evaluations typically do not consider performance on the full texts of novels. In order to optimize its output for concrete use in Dutch literary studies, we are in the process of evaluating and finetuning Dutchcoref. Dutchcoref is an implementation of the Stanford Multi-Pass Sieve Coreference System for Dutch. Using a “silver standard” of annotated data on 2,137 characters in 170 contemporary Dutch novels, we assess the extent to which Dutchcoref is able to identify the most prominent characters and their gender. Furthermore, we explore the usability of the system by exploring a specific narratological question about the gender distribution of the characters. We find that Dutchcoref is highly accurate in detecting noun phrases, proper names, and pronouns referring to characters, and that it is accurate in establishing their gender. However, the ability to cluster co-references together in a character profile, which we compare to BookNLP’s performance in this respect, is still sub-optimal and deteriorates with text length. We show that, notwithstanding current state of development, Dutchcoref can be applied for meaningful literary analysis, and we outline future prospects.</span>
+        </div>
+      </span>
+   </div>
+ </li>
+</div>
+
+
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
       <span class="title col s10">Profiling anonymous authors in the Corsican autonomist press of the inter-war period
 </span>
       <p>
@@ -408,7 +467,7 @@ layouttype: "single"
 
 </ul>
 
-#### Session 3B    HTR & Manuscripts
+#### Session 3B. HTR and manuscripts
 
 <ul class="collection">
 <div class="">
@@ -491,7 +550,7 @@ layouttype: "single"
 
 </ul>
 
-#### Session 4A    Narrative
+#### Session 4A. Narrative
 
 <ul class="collection">
 <div class="">
@@ -594,7 +653,7 @@ layouttype: "single"
 </div>
 </ul>
 
-#### Session 4B    Libraries and collections
+#### Session 4B. Libraries and collections
 
 <ul class="collection">
 <div class="">
@@ -678,7 +737,7 @@ layouttype: "single"
 </ul>
 </ul>
 
-#### Session 5A    Authorship attribution
+#### Session 5A. Authorship attribution
 
 
 <ul class="collection">
@@ -763,7 +822,7 @@ layouttype: "single"
 
 
 
-#### Session 5B    Large language models
+#### Session 5B. Large language models
 
 
 <ul class="collection">
@@ -848,7 +907,7 @@ layouttype: "single"
 
 
 
-#### Session 6    Audio/Visual
+#### Session 6. Audio/Visual
 
 
 <ul class="collection">
@@ -953,7 +1012,7 @@ layouttype: "single"
 
 
 
-#### Session 7    Literature
+#### Session 7. Literature
 
 
 <ul class="collection">
@@ -1250,4 +1309,395 @@ layouttype: "single"
  </li>
 </div>
 
+</ul>
+
+#### Posters
+
+
+<ul class="collection">
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Computational analysis of artistic style prevalence in generative AI art</span>
+      <p>
+        <span class="col s10 author"> Thomas Efer and Andreas Niekler</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">The Evolution of News Headlines</span>
+      <p>
+        <span class="col s10 author">Pietro L. Nickl</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Evaluating State-of-the-Art Handwritten Text Recognition (HTR) Engines with Large Language Models (LLMs) for Historical Document Digitisation</span>
+      <p>
+        <span class="col s10 author">Christel Annemieke Romein, Achim Rabus, Gundram Leifert, Tobias Hodel and Phillip Ströbel</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">The Flemish Operation: Language Choices in the Repertoire of the Antwerp Opera (1893 – 1934)</span>
+      <p>
+        <span class="col s10 author">Mona Allaert and Mike Kestemont</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Metronome: tracing variation in poetic meters via local sequence alignment</span>
+      <p>
+        <span class="col s10 author">Benjamin Nagy, Artjoms Šeļa, Mirella De Sisto, Wouter Haverals and Petr Plecháč</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Analysing Image Similarity Recommendations Across Photographic Collections</span>
+      <p>
+        <span class="col s10 author">Taylor Arnold and Lauren Tilton</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Understanding the Role of Speech Acts in a Large Corpus of Political Communication</span>
+      <p>
+        <span class="col s10 author">Klaus Schmidt, Andreas Niekler and Manuel Burghardt</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Mining the Dutch attitudes towards animals and plants</span>
+      <p>
+        <span class="col s10 author">Arjan van Dalfsen</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Towards emotion analysis for Alsatian theater</span>
+      <p>
+        <span class="col s10 author">Qinyue Liu, Pablo Ruiz Fabo and Delphine Bernhard</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Large language models to supercharge humanities research</span>
+      <p>
+        <span class="col s10 author">Andres Karjus</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">A Graph Database and an Ontology for Computational Literary Studies </span>
+      <p>
+        <span class="col s10 author">Federico Pianzola, Andreas van Cranenburgh, Xiaoyan Yang, Noa Visser, Michiel van der Ree, Luca Scotti and Ze Yu</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">From Page to Persona: Exploring Gendered Linguistic Patterns in Manga</span>
+      <p>
+        <span class="col s10 author">Mareeha Ahmad and Maheen Zia</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Telling a Story with Data: shift in the Mediterranean Diet’s discourse from 1950-2020</span>
+      <p>
+        <span class="col s10 author">Arina Melkozernova, Juliann Vitullo, Ryan Dubnicek, Daniel J. Evans and Boris Capitanu</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Presidential words through French media</span>
+      <p>
+        <span class="col s10 author">Elise Noga Hartmann</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">‘Go into the sea’ or ‘to venture’: Using token embeddings to disentangle lexical usages in Chinese</span>
+      <p>
+        <span class="col s10 author">Jing Chen and Chu-Ren Huang</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Encoded literary history: A word embedding approach to literary history</span>
+      <p>
+        <span class="col s10 author">Judith Brottrager</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Profiling charged domains through the lens of correlating subtexts</span>
+      <p>
+        <span class="col s10 author"> Ryan Brate and Marieke Van Erp</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">How far back into the past can we trust language phylogenies?</span>
+      <p>
+        <span class="col s10 author">Emma Kopp and Robin Ryder</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation</span>
+      <p>
+        <span class="col s10 author">Julia Neugarten, Christoph Minixhofer and David Slot</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Investigating the reliability of expert queries in a historical corpus</span>
+      <p>
+        <span class="col s10 author">Thomas Rainsford and Mathilde Regnault</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Publishing the Neulateinische Wortliste as Linked Open Data</span>
+      <p>
+        <span class="col s10 author">Federica Iurescia, Eleonora Litta, Marco Passarotti and Matteo Pellegrini</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Explicit References to Societal Values in Fairy Tales: A Comparison between Three European Cultures</span>
+      <p>
+        <span class="col s10 author">Alba Morollon Diaz-Faes, Carla Sofia Ribeiro Murteira and Martin Ruskov</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">How to Evaluate Coreference in Literary Texts?</span>
+      <p>
+        <span class="col s10 author">Ana Duron Tejedor, Pascal Amsili and Thierry Poibeau</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Understanding the impact of two derived text formats on DistilBERT-based binary sentiment classification</span>
+      <p>
+        <span class="col s10 author">Keli Du and Christof Schöch</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Словотвiр: a natural experiment in word replacement</span>
+      <p>
+        <span class="col s10 author">Alexey Koshevoy, Olivier Morin and Oleg Sobchuk</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Dating the Stylistic Turn: the Strength of the Auctorial Signal in Early Modern French Plays</span>
+      <p>
+        <span class="col s10 author">Florian Cafiero and Simon Gabay</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Computer vision, historical photographs and halftone visual culture</span>
+      <p>
+        <span class="col s10 author">Mohamed Salim Aissi, Marina Giardinetti, Isabelle Bloch, Julien Schuh and Daniel Foliard</span><br>
+      </p>
+   </div>
+ </li>
+</div>
 </ul>
