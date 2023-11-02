@@ -43,7 +43,7 @@ layouttype: "single"
 
 #### Parallel workshops
 
-
+<ul class="collection">
 <div class="">
   <li class="collection-item avatar">
     <a class="url btn-flat circle disabled" data-position="bottom" href="/">
@@ -101,6 +101,7 @@ layouttype: "single"
       </span>
    </div>
  </li>
+ </ul>
 
 
 #### Session 1. Historical change
