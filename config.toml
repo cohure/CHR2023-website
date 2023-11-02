@@ -1,6 +1,6 @@
 baseURL = "http://2023.computational-humanities-research/"
 languageCode = "en-us"
-title = "Computational Humanities Research 20223"
+title = "Computational Humanities Research 2023"
 theme = "chr"
 publishDir = "docs"
 

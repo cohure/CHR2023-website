@@ -19,7 +19,7 @@ You can access the site via subway (Line 7 - “Porte d’Italie”), tram (Line
 
 #### Conference dinner
 
-Conference dinner will be held on December 7th at award-winning restaurant [Atelier de maître Albert](https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/atelier-maitre-albert). Situated right across Notre-Dame-de-Paris in a medieval hotel, this venue is chef 3-starred chef Guy Savoy’s take on old school French restaurants. 
+Conference dinner will be held on December 7th at award-winning restaurant [Atelier de maître Albert](https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/atelier-maitre-albert). Situated right across Notre-Dame-de-Paris in a medieval hotel, this venue is 3-starred chef Guy Savoy’s take on old school French restaurants. 
 
 #### COVID-19 safety policy 
 
