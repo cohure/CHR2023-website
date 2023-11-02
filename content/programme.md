@@ -21,7 +21,7 @@ layouttype: "single"
 - 10:30-11:00: *Coffee break*
 - 11:00-12:20: **Keynote**: Roberta Sinatra (University of Copenhagen)
 - 12:30-13:30: *Lunch*
-- 13:30-15:00: [**Session 4A**](#session-4a-narratives): Narrative   //////  [**Session 4B**](#session-4b-libraries-and-collections): Libraries and Collections
+- 13:30-15:00: [**Session 4A**](#session-4a-narrative): Narrative   //////  [**Session 4B**](#session-4b-libraries-and-collections): Libraries and Collections
 - 15:00-15:30: *Coffee break*
 - 15:30-17:00: [**Session 5A**](#session-5a-authorship-attribution): Authorship attribution  //////  [**Session 5B**](#session-5b-large-language-models): Large Language Models
 - 17:00-: [**Poster walk-around**](#posters)
@@ -666,7 +666,7 @@ layouttype: "single"
       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">Evaluation and alignment of movie events extracted via machine learning</span>
+      <span class="title col s10">Evaluation and Alignment of Movie Events Extracted via Machine Learning from a Narratological Perspective</span>
       <p>
         <span class="col s10 author">Feng Zhou and Federico Pianzola</span><br>
       </p>
