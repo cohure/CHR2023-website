@@ -28,7 +28,7 @@ layouttype: "single"
 - 20:00: *Conference dinner*
 
 ### Friday, December 8, 2023 (Day 3)
-- 09:00-10:30: **Keynote**: Olivier Morin
+- 09:00-10:30: **Keynote**: Olivier Morin (Institut Jean Nicod, PSL)
 - 10:30-11:00: *Coffee break*
 - 11:00-12:30: [**Session 6**](#session-6-audiovisual): Audio/Visual
 - 12:30-13:30: *Lunch*
@@ -47,13 +47,18 @@ layouttype: "single"
 <div class="">
   <li class="collection-item avatar">
     <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">From computational diplomatics to computational diplomacy: pre-processing and analyzing historical or contemporary  documents
-</span>
+      <span class="title col s10">Transforming archives into data-driven analyses</span>
       <p>
         <span class="col s10 author">Florian Cafiero (PSL) and Jean-Luc Falcone (UNIGE)</span><br>
       </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">This workshop bridges the historical practice of diplomatics – the critical study of historical documents – with the modern field of computational diplomacy to illustrate how archival materials can be transformed into analyzable digital data. Aimed at graduate students and researchers, this course requires no prior experience and provides a pathway from the physical archive to digital analytics across various disciplines. Participants will be introduced to the process of digitizing historical documents, ensuring their suitability for computational techniques (OCR, template matching, computer vision), and applying advanced analytical methods such as network analysis to gain new insights on their content.</span>
+        </div>
+      </span>
    </div>
  </li>
 </div>
@@ -62,20 +67,40 @@ layouttype: "single"
 <div class="">
   <li class="collection-item avatar">
     <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">Computational analysis of texts: an introduction with Python
-</span>
+      <span class="title col s10">Textual analysis with Python and Large Language Models</span>
       <p>
         <span class="col s10 author">Marianne Reboul (Ecole Normale Supérieure de Lyon)
 </span><br>
       </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">This workshop offers a comprehensive introduction to the burgeoning field of textual analysis using Python and Large Language Models (LLMs). Designed for graduate students and researchers across disciplines, the workshop requires no prerequisites and promises to equip participants with the foundational skills necessary to harness the power of textual data. Through a blend of theoretical instruction and practical exercises, attendees will explore the capabilities of Python as a tool for natural language processing and how LLMs can be integrated to unlock deeper insights.</span>
+        </div>
+      </span>
    </div>
  </li>
 </div>
 
-
-
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+       <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Mapping with R for humanities</span>
+      <p>
+        <span class="col s10 author">Giovanni Pietro Vitali</span><br>
+      </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">This workshop is designed to introduce graduate students and researchers to the powerful capabilities of Geographic Information Systems (GIS) using the R programming language. With no prerequisites necessary, participants from various disciplines will learn to manage, analyze, and visualize spatial data effectively. The workshop aims to demystify the complexities of spatial analysis by providing hands-on experience with R’s dedicated GIS packages.</span>
+        </div>
+      </span>
+   </div>
+ </li>
 
 
 #### Session 1. Historical change
@@ -93,7 +118,8 @@ layouttype: "single"
       </p>
       <span class="">
         <div class="abstract-wrapper hide-on-small-only col s12">
-          <span class="abstract">Advancements in language technology and applied mathematics offer a plethora of tools that can enrich textual cultural heritage research. Using an information-theoretical approach to author profiling, this paper tries to leverage some of these tools to reconstruct mental states in the Early Modern Spanish author Teresa of \'{Avila}. We shift away from traditional static textual feature analysis and instead approach author profiling as a dynamic problem, requiring a representation of the author’s life history. Teresa of Ávila was an Early Modern Spanish mystic and Carmelite nun whose authorship offers a unique dataset due to her prolific output and well-preserved, digitized writings. We model Teresa's letter corpus as a complex system with multiple states and try to track her mental and socio-cultural dynamics through lexical co-occurrence structures and affective valences in her letters. We find that Teresa's letters reflect a life history of state switching between contemplation and revelation. This relatively new approach offers a more robust and dynamic perspective on author profiling in cultural heritage research.</span>
+          <span class="abstract"> Advancements in language technology and applied mathematics offer a plethora of tools that can enrich textual cultural heritage research. Using an information-theoretical approach to author profiling, this paper tries to leverage some of these tools to reconstruct mental states in the Early Modern Spanish author Teresa of \'{Avila}. We shift away from traditional static textual feature analysis and instead approach author profiling as a dynamic problem, requiring a representation of the author’s life history. Teresa of Ávila was an Early Modern Spanish mystic and Carmelite nun whose authorship offers a unique dataset due to her prolific output and well-preserved, digitized writings. We model Teresa's letter corpus as a complex system with multiple states and try to track her mental and socio-cultural dynamics through lexical co-occurrence structures and affective valences in her letters. We find that Teresa's letters reflect a life history of state switching between contemplation and revelation. This relatively new approach offers a more robust and dynamic perspective on author profiling in cultural heritage research. <br/> long talk
+          </span>
         </div>
       </span>
    </div>
@@ -109,7 +135,7 @@ layouttype: "single"
     <div class="row">
       <span class="title col s10">Modeling temporal uncertainty in historical datasets</span>
       <p>
-        <span class="col s10 author">Vojtech Kase, Adéla Sobotková and Petra Heřmánková.</span><br>
+        <span class="col s10 author">Vojtech Kase, Adéla Sobotková and Petra Heřmánková</span><br>
       </p>
       <span class="">
         <div class="abstract-wrapper hide-on-small-only col s12">

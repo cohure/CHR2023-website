@@ -17,6 +17,9 @@ The conference will take place across several rooms:
 
 You can access the site via subway (Line 7 - “Porte d’Italie”), tram (Line 3a - “Porte d’Italie”) or bus (Line 47 - “Roger Salengro - Fontainebleau”). Itineraries can be found on [ratp.fr](https://www.ratp.fr/) or the [RATP app](https://play.google.com/store/apps/details?id=com.fabernovel.ratp&hl=fr&gl=US&pli=1). 
 
+#### Conference dinner
+
+Conference dinner will be held on December 7th at award-winning restaurant [Atelier de maître Albert](https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/atelier-maitre-albert). Situated right across Notre-Dame-de-Paris in a medieval hotel, this venue is chef 3-starred chef Guy Savoy’s take on old school French restaurants. 
 
 #### COVID-19 safety policy 
 
