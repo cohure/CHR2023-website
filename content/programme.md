@@ -28,7 +28,7 @@ layouttype: "single"
 - 20:00: *Conference dinner*
 
 ### Friday, December 8, 2023 (Day 3)
-- 09:00-10:30: **Keynote**: Olivier Morin
+- 09:00-10:30: **Keynote**: Olivier Morin (Institut Jean Nicod, PSL)
 - 10:30-11:00: *Coffee break*
 - 11:00-12:30: [**Session 6**](#session-6-audiovisual): Audio/Visual
 - 12:30-13:30: *Lunch*
@@ -50,11 +50,15 @@ layouttype: "single"
        <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">From computational diplomatics to computational diplomacy: pre-processing and analyzing historical or contemporary  documents
-</span>
+      <span class="title col s10">Transforming archives into data-driven analyses</span>
       <p>
         <span class="col s10 author">Florian Cafiero (PSL) and Jean-Luc Falcone (UNIGE)</span><br>
       </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">This workshop bridges the historical practice of diplomatics – the critical study of historical documents – with the modern field of computational diplomacy to illustrate how archival materials can be transformed into analyzable digital data. Aimed at graduate students and researchers, this course requires no prior experience and provides a pathway from the physical archive to digital analytics across various disciplines. Participants will be introduced to the process of digitizing historical documents, ensuring their suitability for computational techniques (OCR, template matching, computer vision), and applying advanced analytical methods such as network analysis to gain new insights on their content.</span>
+        </div>
+      </span>
    </div>
  </li>
 </div>
@@ -66,12 +70,16 @@ layouttype: "single"
        <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
-      <span class="title col s10">Computational analysis of texts: an introduction with Python
-</span>
+      <span class="title col s10">Textual analysis with Python and Large Language Models</span>
       <p>
         <span class="col s10 author">Marianne Reboul (Ecole Normale Supérieure de Lyon)
 </span><br>
       </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">This workshop offers a comprehensive introduction to the burgeoning field of textual analysis using Python and Large Language Models (LLMs). Designed for graduate students and researchers across disciplines, the workshop requires no prerequisites and promises to equip participants with the foundational skills necessary to harness the power of textual data. Through a blend of theoretical instruction and practical exercises, attendees will explore the capabilities of Python as a tool for natural language processing and how LLMs can be integrated to unlock deeper insights.</span>
+        </div>
+      </span>
    </div>
  </li>
 </div>
@@ -86,6 +94,11 @@ layouttype: "single"
       <p>
         <span class="col s10 author">Giovanni Pietro Vitali</span><br>
       </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract">This workshop is designed to introduce graduate students and researchers to the powerful capabilities of Geographic Information Systems (GIS) using the R programming language. With no prerequisites necessary, participants from various disciplines will learn to manage, analyze, and visualize spatial data effectively. The workshop aims to demystify the complexities of spatial analysis by providing hands-on experience with R’s dedicated GIS packages.</span>
+        </div>
+      </span>
    </div>
  </li>
 
