@@ -21,6 +21,15 @@ You can access the site via subway (Line 7 - “Porte d’Italie”), tram (Line
 
 Conference dinner will be held on December 7th at award-winning restaurant [Atelier de maître Albert](https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/atelier-maitre-albert). Situated right across Notre-Dame-de-Paris in a medieval hotel, this venue is 3-starred chef Guy Savoy’s take on old school French restaurants. 
 
+UPDATE: Ufortunately, conference dinner is fully booked now; below you can find some suggestions for restaurants that are in the vicinity:  
+
+* [La petite Périgourdine](https://www.restaurantlapetiteperigourdine.com/)  
+* [Le coupe chou](https://www.lecoupechou.com/)  
+* [Grains nobles](https://www.grainsnoblesetplus.com/)  
+* [Bonvivant](https://www.bonvivant.paris/)  
+
+
+
 #### COVID-19 safety policy 
 
 At EPITA, all Covid-19 safety measures for events have now been relaxed, in line with the regulation in France. Please just take a moment to read the safety recommendations below.

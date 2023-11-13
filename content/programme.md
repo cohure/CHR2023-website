@@ -1275,6 +1275,20 @@ layouttype: "single"
       <i class="material-icons-outlined">picture_as_pdf</i>
     </a>
     <div class="row">
+      <span class="title col s10">From Page to Persona: Exploring Gendered Linguistic Patterns in Manga</span>
+      <p>
+        <span class="col s10 author">Mareeha Ahmad and Maheen Zia</span><br>
+      </p>
+   </div>
+ </li>
+</div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
       <span class="title col s10">Computational thematics: Comparing algorithms for clustering the genres of literary fiction</span>
       <p>
         <span class="col s10 author">Oleg Sobchuk and Artjoms Šeļa</span><br>
@@ -1494,20 +1508,6 @@ layouttype: "single"
       <span class="title col s10">A Graph Database and an Ontology for Computational Literary Studies </span>
       <p>
         <span class="col s10 author">Federico Pianzola, Andreas van Cranenburgh, Xiaoyan Yang, Noa Visser, Michiel van der Ree, Luca Scotti and Ze Yu</span><br>
-      </p>
-   </div>
- </li>
-</div>
-
-<div class="">
-  <li class="collection-item avatar">
-    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
-      <i class="material-icons-outlined">picture_as_pdf</i>
-    </a>
-    <div class="row">
-      <span class="title col s10">From Page to Persona: Exploring Gendered Linguistic Patterns in Manga</span>
-      <p>
-        <span class="col s10 author">Mareeha Ahmad and Maheen Zia</span><br>
       </p>
    </div>
  </li>
