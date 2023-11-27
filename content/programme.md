@@ -9,32 +9,32 @@ layouttype: "single"
 - 09:00-10:30: [**Workshops**](#parallel-workshops), registration
 - 10:30-11:15: *Coffee break, registration*
 - 11:15-11:30: *CHR opening words*
-- 11:30-13:00: [**Session 1**](#session-1-historical-change): Historical change
+- 11:30-13:00: [**Session 1**](#session-1-historical-change): Historical change. *Chair: Artjoms Šeļa*
 - 13:00-14:30: *Lunch*
-- 14:30-16:00: [**Session 2A**](#session-2a-language): Language  //////  [**Session 2B**](#session-2b-history): History
+- 14:30-16:00: [**Session 2A**](#session-2a-language): Language. *Chair: Kristoffer Nielbo*  //////  [**Session 2B**](#session-2b-history): History. *Chair: Sarah Lang*
 - 16:00-16:30: *Coffee break*
-- 16:30-18:00: **Keynote** Richard McElreath (MPI for Evolutionary Anthropology)
+- 16:30-18:00: **Keynote** Richard McElreath (MPI for Evolutionary Anthropology). *Chair: Iza Romanowska*
 - 18:00: Opening reception 
 
 ### Thursday, December 7, 2023 (Day 2)
-- 09:00-10:30: [**Session 3A**](#session-3a-literature-and-society): Literature and society  //////  [**Session 3B**](#session-3b-htr-and-manuscripts): HTR and manuscripts
+- 09:00-10:30: [**Session 3A**](#session-3a-literature-and-society): Literature and society. *Chair: Andrew Piper*  //////  [**Session 3B**](#session-3b-htr-and-manuscripts): HTR and manuscripts. *Chair: Thibault Clérice*
 - 10:30-11:00: *Coffee break*
-- 11:00-12:20: **Keynote**: Roberta Sinatra (University of Copenhagen)
+- 11:00-12:20: **Keynote**: Roberta Sinatra (University of Copenhagen). *Chair: Fotis Jannidis*
 - 12:30-13:30: *Lunch*
-- 13:30-15:00: [**Session 4A**](#session-4a-narrative): Narrative   //////  [**Session 4B**](#session-4b-libraries-and-collections): Libraries and Collections
+- 13:30-15:00: [**Session 4A**](#session-4a-narrative): Narrative. *Chair: Rebecca M. M. Hicke*  //////  [**Session 4B**](#session-4b-libraries-and-collections): Libraries and Collections. *Chair: Iza Romanowska*
 - 15:00-15:30: *Coffee break*
-- 15:30-17:00: [**Session 5A**](#session-5a-authorship-attribution): Authorship attribution  //////  [**Session 5B**](#session-5b-large-language-models): Large Language Models
+- 15:30-17:00: [**Session 5A**](#session-5a-authorship-attribution): Authorship attribution. *Chair: Thierry Poibeau*  //////  [**Session 5B**](#session-5b-large-language-models): Large Language Models. *Chair: Thora Hagen*
 - 17:00-: [**Poster walk-around**](#posters)
 - 20:00: *Conference dinner*
 
 ### Friday, December 8, 2023 (Day 3)
-- 09:00-10:30: **Keynote**: Olivier Morin (Institut Jean Nicod, PSL)
+- 09:00-10:30: **Keynote**: Olivier Morin (Institut Jean Nicod, PSL). *Chair: Artjoms Šeļa*
 - 10:30-11:00: *Coffee break*
-- 11:00-12:30: [**Session 6**](#session-6-audiovisual): Audio/Visual
+- 11:00-12:30: [**Session 6**](#session-6-audiovisual): Audio/Visual. *Chair: Oleg Sobchuk*
 - 12:30-13:30: *Lunch*
-- 13:30-15:00: [**Lightning talks session**](#lightning-talks)
+- 13:30-15:00: [**Lightning talks session**](#lightning-talks). *Chair: Iza Romanowska*
 - 15:00-15:30: *Coffee break*
-- 15:30-17:00: [**Session 7**](#session-7-literature): Literature
+- 15:30-17:00: [**Session 7**](#session-7-literature): Literature. *Chair: Fotis Jannidis*
 - 17:00-17:30: *Award ceremony, concluding remarks*
 
 </br>
@@ -107,27 +107,6 @@ layouttype: "single"
 #### Session 1. Historical change
 
 <ul class="collection">
-<div class="">
-  <li class="collection-item avatar">
-    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
-      <i class="material-icons-outlined">picture_as_pdf</i>
-    </a>
-    <div class="row">
-      <span class="title col s10">Oscillation between Contemplation and Revelation - Recurrence and Change in the Life History of Teresa of Ávila</span>
-      <p>
-        <span class="col s10 author">Kristoffer Nielbo, Jan Kostkan, Katrine F. Baunvig, Ekaterina Borisova and Armin W. Geertz</span><br>
-      </p>
-      <span class="">
-        <div class="abstract-wrapper hide-on-small-only col s12">
-          <span class="abstract"> Advancements in language technology and applied mathematics offer a plethora of tools that can enrich textual cultural heritage research. Using an information-theoretical approach to author profiling, this paper tries to leverage some of these tools to reconstruct mental states in the Early Modern Spanish author Teresa of Ávila. We shift away from traditional static textual feature analysis and instead approach author profiling as a dynamic problem, requiring a representation of the author’s life history. Teresa of Ávila was an Early Modern Spanish mystic and Carmelite nun whose authorship offers a unique dataset due to her prolific output and well-preserved, digitized writings. We model Teresa's letter corpus as a complex system with multiple states and try to track her mental and socio-cultural dynamics through lexical co-occurrence structures and affective valences in her letters. We find that Teresa's letters reflect a life history of state switching between contemplation and revelation. This relatively new approach offers a more robust and dynamic perspective on author profiling in cultural heritage research. <br/><br/> long talk
-          </span>
-        </div>
-      </span>
-   </div>
- </li>
-</div>
-
-
 <div class="">
   <li class="collection-item avatar">
     <a class="url btn-flat circle disabled" data-position="bottom" href="/">
@@ -207,6 +186,27 @@ layouttype: "single"
    </div>
  </li>
 </div>
+
+<div class="">
+  <li class="collection-item avatar">
+    <a class="url btn-flat circle disabled" data-position="bottom" href="/">
+      <i class="material-icons-outlined">picture_as_pdf</i>
+    </a>
+    <div class="row">
+      <span class="title col s10">Oscillation between Contemplation and Revelation - Recurrence and Change in the Life History of Teresa of Ávila</span>
+      <p>
+        <span class="col s10 author">Kristoffer Nielbo, Jan Kostkan, Katrine F. Baunvig, Ekaterina Borisova and Armin W. Geertz</span><br>
+      </p>
+      <span class="">
+        <div class="abstract-wrapper hide-on-small-only col s12">
+          <span class="abstract"> Advancements in language technology and applied mathematics offer a plethora of tools that can enrich textual cultural heritage research. Using an information-theoretical approach to author profiling, this paper tries to leverage some of these tools to reconstruct mental states in the Early Modern Spanish author Teresa of Ávila. We shift away from traditional static textual feature analysis and instead approach author profiling as a dynamic problem, requiring a representation of the author’s life history. Teresa of Ávila was an Early Modern Spanish mystic and Carmelite nun whose authorship offers a unique dataset due to her prolific output and well-preserved, digitized writings. We model Teresa's letter corpus as a complex system with multiple states and try to track her mental and socio-cultural dynamics through lexical co-occurrence structures and affective valences in her letters. We find that Teresa's letters reflect a life history of state switching between contemplation and revelation. This relatively new approach offers a more robust and dynamic perspective on author profiling in cultural heritage research. <br/><br/> long talk
+          </span>
+        </div>
+      </span>
+   </div>
+ </li>
+</div>
+
 
 
 </ul>
@@ -887,7 +887,7 @@ layouttype: "single"
       </p>
       <span class="">
         <div class="abstract-wrapper hide-on-small-only col s12">
-          <span class="abstract">Historical research is the continued peruse of memories in the form of archives. The recent advent of powerful Large-Language Models (LLM) provides a new conversational form of inquiry into historical memory (or, training data, in this case). We show that by augmenting such LLMs with vector embeddings from highly specialized academic sources, a conversational methodology can be made accessible to historians and other researchers in the Humanities. Concretely, we evaluate and demonstrate how LLMs have the ability of assisting researchers while they examine a customized corpora of different types of documents, including, but not exclusive to: (1). primary sources, (2). secondary sources written by experts, and (3). the combination of these two. Compared to established search interfaces for digital catalogues, such as metadata and full-text search, we evaluate the richer conversational style of LLMs on the performance of two main types of tasks: (1). question-answering, and (2). extraction and organization of data. We demonstrate that LLMs semantic retrieval and reasoning abilities on problem-specific tasks can be applied to large textual archives that have not been part of the its training data. Therefore, LLMs can be augmented with sources relevant to specific research projects, and can be queried privately by researchers.<br/><br/>long talk</span>
+          <span class="abstract">Historical research is the continued peruse of memories in the form of archives. The recent advent of powerful Large-Language Models (LLM) provides a new conversational form of inquiry into historical memory (or, training data, in this case). We show that by augmenting such LLMs with vector embeddings from highly specialized academic sources, a conversational methodology can be made accessible to historians and other researchers in the Humanities. Concretely, we evaluate and demonstrate how LLMs have the ability of assisting researchers while they examine a customized corpora of different types of documents, including, but not exclusive to: (1). primary sources, (2). secondary sources written by experts, and (3). the combination of these two. Compared to established search interfaces for digital catalogues, such as metadata and full-text search, we evaluate the richer conversational style of LLMs on the performance of two main types of tasks: (1). question-answering, and (2). extraction and organization of data. We demonstrate that LLMs semantic retrieval and reasoning abilities on problem-specific tasks can be applied to large textual archives that have not been part of the its training data. Therefore, LLMs can be augmented with sources relevant to specific research projects, and can be queried privately by researchers.<br/><br/>long talk, online</span>
         </div>
       </span>
    </div>
