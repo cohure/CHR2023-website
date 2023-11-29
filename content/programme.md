@@ -13,13 +13,14 @@ layouttype: "single"
 - 13:00-14:30: *Lunch*
 - 14:30-16:00: [**Session 2A**](#session-2a-language): Language. *Chair: Kristoffer Nielbo*  //////  [**Session 2B**](#session-2b-history): History. *Chair: Sarah Lang*
 - 16:00-16:30: *Coffee break*
-- 16:30-18:00: **Keynote** Richard McElreath (MPI for Evolutionary Anthropology). *Chair: Iza Romanowska*
+- 16:30-18:00: **Keynote** Richard McElreath (MPI for Evolutionary Anthropology). The importance of analog
+thinking for digital scholarship. *Chair: Iza Romanowska*
 - 18:00: Opening reception 
 
 ### Thursday, December 7, 2023 (Day 2)
 - 09:00-10:30: [**Session 3A**](#session-3a-literature-and-society): Literature and society. *Chair: Andrew Piper*  //////  [**Session 3B**](#session-3b-htr-and-manuscripts): HTR and manuscripts. *Chair: Thibault Clérice*
 - 10:30-11:00: *Coffee break*
-- 11:00-12:20: **Keynote**: Roberta Sinatra (University of Copenhagen). *Chair: Fotis Jannidis*
+- 11:00-12:20: **Keynote**: Roberta Sinatra (University of Copenhagen). Quantifying the dynamics of impact in science and art. *Chair: Fotis Jannidis*
 - 12:30-13:30: *Lunch*
 - 13:30-15:00: [**Session 4A**](#session-4a-narrative): Narrative. *Chair: Rebecca M. M. Hicke*  //////  [**Session 4B**](#session-4b-libraries-and-collections): Libraries and Collections. *Chair: Iza Romanowska*
 - 15:00-15:30: *Coffee break*
@@ -28,7 +29,8 @@ layouttype: "single"
 - 20:00: *Conference dinner*
 
 ### Friday, December 8, 2023 (Day 3)
-- 09:00-10:30: **Keynote**: Olivier Morin (Institut Jean Nicod, PSL). *Chair: Artjoms Šeļa*
+- 09:00-10:30: **Keynote**: Olivier Morin (Institut Jean Nicod, PSL). 
+Humanity's second language: How images carry information. *Chair: Artjoms Šeļa*
 - 10:30-11:00: *Coffee break*
 - 11:00-12:30: [**Session 6**](#session-6-audiovisual): Audio/Visual. *Chair: Oleg Sobchuk*
 - 12:30-13:30: *Lunch*
