@@ -2,7 +2,10 @@
 title: "CHR2023 Programme"
 layouttype: "single" 
 ---
-    
+
+**See the most up-to-date schedule on [Discourse forums](https://discourse.computational-humanities-research.org/t/chr2023-schedule/2098/2)**
+
+
 *Please note that all times are in Central European Time (CET)*
 ### Wednesday, December 6, 2023 (Day 1)
 
