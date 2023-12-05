@@ -21,7 +21,7 @@ thinking for digital scholarship. *Chair: Iza Romanowska*
 - 18:00: Opening reception 
 
 ### Thursday, December 7, 2023 (Day 2)
-- 09:00-10:30: [**Session 3A**](#session-3a-literature-and-society): Literature and society. *Chair: Andrew Piper*  //////  [**Session 3B**](#session-3b-htr-and-manuscripts): HTR and manuscripts. *Chair: Thibault Clérice*
+- 09:00-10:30: [**Session 3A**](#session-3a-literature-and-society): Literature and society. *Chair: Alie Lassche*  //////  [**Session 3B**](#session-3b-htr-and-manuscripts): HTR and manuscripts. *Chair: Thibault Clérice*
 - 10:30-11:00: *Coffee break*
 - 11:00-12:20: **Keynote**: Roberta Sinatra (University of Copenhagen). Quantifying the dynamics of impact in science and art. *Chair: Fotis Jannidis*
 - 12:30-13:30: *Lunch*
